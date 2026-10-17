@@ -1,6 +1,6 @@
 ---
 name: ars-revision
-description: "ARS academic-paper `revision` mode — revised draft + R&R responses"
+description: "ARS academic-paper `revision` 模式 — 修订稿 + 返修答复"
 disable-model-invocation: true
 user-invocable: true
 ---

@@ -1,6 +1,6 @@
 ---
 name: academic-paper-reviewer
-description: "Multi-perspective academic paper review with dynamic reviewer personas. Runs a 5-seat, role-separated review panel (Journal-Fit Reviewer + 3 peer-review roles + Devil's Advocate) with field-specific expertise; role separation is not a claim of independent error processes. Supports full review, re-review (verification), quick assessment, methodology focus, Socratic guided, and calibration modes. Triggers on: review paper, peer review, manuscript review, referee report, review my paper, critique paper, simulate review, editorial review, calibrate reviewer, reviewer calibration, measure reviewer accuracy, 審查論文, 論文審查, 模擬審查, 同儕審查, 幫我審這篇, 以審查人角度評估, 審查者校準, 논문 심사, 동료 심사, 모의 심사, 심사자 관점에서 평가, 심사자 보정."
+description: "多视角学术论文评审，动态生成评审人设。运行 5 席、角色分离的评审团（期刊适配评审 + 3 个同行评审角色 + 魔鬼代言人），具备领域专长；角色分离并不构成独立误差过程的声明。支持完整评审、复审（核验）、快速评估、方法学聚焦、苏格拉底式引导与校准模式。触发词：review paper, peer review, manuscript review, referee report, review my paper, critique paper, simulate review, editorial review, calibrate reviewer, reviewer calibration, measure reviewer accuracy, 審查論文, 論文審查, 模擬審查, 同儕審查, 幫我審這篇, 以審查人角度評估, 審查者校準, 논문 심사, 동료 심사, 모의 심사, 심사자 관점에서 평가, 심사자 보정, 审查论文, 论文审查, 模拟审查, 同侪审查, 帮我审这篇, 以审查人角度评估, 审查者校准."
 metadata:
   version: "1.11.1"
   last_updated: "2026-08-15"

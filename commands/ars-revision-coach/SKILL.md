@@ -1,6 +1,6 @@
 ---
 name: ars-revision-coach
-description: "ARS academic-paper `revision-coach` — peer-review roadmap or source-accounted real-committee response skeleton"
+description: "ARS academic-paper `revision-coach` — 同行评审路线图，或按来源逐条回应的真实评审委员会答复骨架"
 disable-model-invocation: true
 user-invocable: true
 ---

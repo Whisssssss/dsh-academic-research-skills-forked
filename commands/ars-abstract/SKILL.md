@@ -1,6 +1,6 @@
 ---
 name: ars-abstract
-description: "ARS academic-paper `abstract-only` mode — bilingual abstract + keywords"
+description: "ARS academic-paper `abstract-only` 模式 — 双语摘要 + 关键词"
 disable-model-invocation: true
 user-invocable: true
 ---

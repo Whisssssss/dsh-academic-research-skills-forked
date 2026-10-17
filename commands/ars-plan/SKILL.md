@@ -1,6 +1,6 @@
 ---
 name: ars-plan
-description: "ARS academic-paper `plan` mode — Socratic chapter-by-chapter planning"
+description: "ARS academic-paper `plan` 模式 — 苏格拉底式逐章规划"
 disable-model-invocation: true
 user-invocable: true
 ---

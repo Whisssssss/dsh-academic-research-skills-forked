@@ -1,6 +1,6 @@
 ---
 name: ars-reviewer
-description: "ARS academic-paper-reviewer `full` mode — simulated peer-review panel"
+description: "ARS academic-paper-reviewer `full` 模式 — 模拟同行评审团"
 disable-model-invocation: true
 user-invocable: true
 ---

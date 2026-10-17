@@ -1,6 +1,6 @@
 ---
 name: ars-rebuttal-audit
-description: "ARS academic-paper `rebuttal-audit` mode — QA an existing rebuttal draft against reviewer comments"
+description: "ARS academic-paper `rebuttal-audit` 模式 — 对照评审意见对现有答辩草稿做质检"
 disable-model-invocation: true
 user-invocable: true
 ---
