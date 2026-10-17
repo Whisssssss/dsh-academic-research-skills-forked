@@ -1,6 +1,6 @@
 ---
 name: ars-mark-read
-description: "ARS /ars-mark-read — record a user-attested reading signal for one or more citation keys"
+description: "ARS /ars-mark-read — 为一个或多个引用键记录用户确认的阅读信号"
 disable-model-invocation: true
 user-invocable: true
 ---

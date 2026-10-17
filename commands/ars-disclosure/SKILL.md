@@ -1,6 +1,6 @@
 ---
 name: ars-disclosure
-description: "ARS academic-paper `disclosure` mode — venue applicability/status bundle or policy-anchor render"
+description: "ARS academic-paper `disclosure` 模式 — 期刊适用性/状态包或政策锚点渲染"
 disable-model-invocation: true
 user-invocable: true
 ---

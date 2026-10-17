@@ -1,6 +1,6 @@
 ---
 name: ars-format-convert
-description: "ARS academic-paper `format-convert` mode — convert to LaTeX / DOCX / PDF / Markdown"
+description: "ARS academic-paper `format-convert` 模式 — 转换为 LaTeX / DOCX / PDF / Markdown"
 disable-model-invocation: true
 user-invocable: true
 ---

@@ -1,6 +1,6 @@
 ---
 name: ars-full
-description: "ARS full pipeline — research → write → review → revise → finalize"
+description: "ARS 完整流水线 — 研究 → 写作 → 评审 → 修订 → 定稿"
 disable-model-invocation: true
 user-invocable: true
 ---

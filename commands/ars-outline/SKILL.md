@@ -1,6 +1,6 @@
 ---
 name: ars-outline
-description: "ARS academic-paper `outline-only` mode — detailed outline + evidence map"
+description: "ARS academic-paper `outline-only` 模式 — 详细提纲 + 证据图"
 disable-model-invocation: true
 user-invocable: true
 ---

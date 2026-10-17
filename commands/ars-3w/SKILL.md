@@ -1,6 +1,6 @@
 ---
 name: ars-3w
-description: "ARS deep-research `three-way-scan` mode — WHY / HOW / WHAT paper comparison"
+description: "ARS deep-research `three-way-scan` 模式 — WHY / HOW / WHAT 论文对比"
 disable-model-invocation: true
 user-invocable: true
 ---

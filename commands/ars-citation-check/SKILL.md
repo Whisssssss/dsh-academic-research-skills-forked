@@ -1,6 +1,6 @@
 ---
 name: ars-citation-check
-description: "ARS academic-paper `citation-check` mode — citation error report"
+description: "ARS academic-paper `citation-check` 模式 — 引用错误报告"
 disable-model-invocation: true
 user-invocable: true
 ---

@@ -1,6 +1,6 @@
 ---
 name: academic-pipeline
-description: "Orchestrator for the full academic research pipeline: research -> write -> integrity check -> review -> revise -> re-review -> re-revise -> final integrity check -> finalize. Coordinates deep-research, academic-paper, and academic-paper-reviewer into a seamless 10-stage workflow with mandatory, coverage-bounded integrity checks, two-stage peer review, and auditable quality-assurance artifacts. Triggers on: academic pipeline, research to paper, full paper workflow, paper pipeline, end-to-end paper, research-to-publication, complete paper workflow, 연구부터 논문까지, 연구 주제 설정부터 논문 완성까지, 논문 전체 워크플로."
+description: "完整学术研究流水线的编排器：研究 -> 写作 -> 完整性检查 -> 评审 -> 修订 -> 复审 -> 再修订 -> 最终完整性检查 -> 定稿。将 deep-research、academic-paper 与 academic-paper-reviewer 协同为无缝的 10 阶段工作流，包含强制的、覆盖范围有界的完整性检查、两阶段同行评审与可审计的质量保证产物。触发词：academic pipeline, research to paper, full paper workflow, paper pipeline, end-to-end paper, research-to-publication, complete paper workflow, 연구부터 논문까지, 연구 주제 설정부터 논문 완성까지, 논문 전체 워크플로, 学术流水线, 从研究到论文, 论文全流程, 端到端论文, 从研究到发表, 完整论文工作流."
 metadata:
   version: "3.21.1"
   last_updated: "2026-08-24"

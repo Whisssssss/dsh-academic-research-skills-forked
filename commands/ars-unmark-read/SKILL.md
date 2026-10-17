@@ -1,6 +1,6 @@
 ---
 name: ars-unmark-read
-description: "ARS /ars-unmark-read — rescind a user-attested reading signal for one or more citation keys"
+description: "ARS /ars-unmark-read — 撤销一个或多个引用键的用户确认阅读信号"
 disable-model-invocation: true
 user-invocable: true
 ---

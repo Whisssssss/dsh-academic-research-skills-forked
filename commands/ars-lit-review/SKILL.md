@@ -1,6 +1,6 @@
 ---
 name: ars-lit-review
-description: "ARS academic-paper `lit-review` mode — annotated bibliography in paper format"
+description: "ARS academic-paper `lit-review` 模式 — 论文格式的注释性书目"
 disable-model-invocation: true
 user-invocable: true
 ---
