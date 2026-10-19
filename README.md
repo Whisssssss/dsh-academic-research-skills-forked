@@ -25,11 +25,11 @@ DeepSeek Harness（DSH）插件：把 Claude Code 的
 
 ## 安装
 
-要求：DeepSeek Harness（`dsh`）0.1.x，pnpm 可用。
+要求：DeepSeek Harness（`dsh`）0.2.x，pnpm 可用。
 
 ```bash
 # 方式一：GitHub 仓库（公开后可用）
-dsh plugin --profile web add github:nullptr-DZF/dsh-academic-research-skills
+dsh plugin --profile web add github:Whisssssss/dsh-academic-research-skills-forked
 
 # 方式二：本地路径（开发调试）
 dsh plugin --profile web add <本仓库绝对路径>
@@ -96,10 +96,10 @@ Provides, out of the box:
 
 ## Install
 
-Requires DeepSeek Harness 0.1.x and pnpm.
+Requires DeepSeek Harness 0.2.x and pnpm.
 
 ```bash
-dsh plugin --profile web add github:nullptr-DZF/dsh-academic-research-skills
+dsh plugin --profile web add github:Whisssssss/dsh-academic-research-skills-forked
 # or from a local checkout:
 dsh plugin --profile web add /path/to/this/repo
 # restart `dsh web`; the skills then appear in the session catalog
